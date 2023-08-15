@@ -10,7 +10,7 @@ export default function Profile(props){
                 <h6>Welcome To Profile</h6>
             </div>
             <div className="card-body">
-
+                <h3>Hello</h3>
             </div>
             <div className="card-footer">
               <button className="btn btn-primary">Add Friend</button>
