@@ -1,7 +1,7 @@
+
 import { useEffect, useState } from "react"
 import ClickCounter from "./Component/ClickCounter"
 import HoverCounter from "./Component/HoverCounter"
-
 
 function App() {
   return (
@@ -11,7 +11,7 @@ function App() {
       <HoverCounter/>
       </div>
     </div>
-  )
+  );
 }
 
-export default App
+export default App;
