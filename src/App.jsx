@@ -1,14 +1,12 @@
 
 import { useEffect, useState } from "react"
-import ClickCounter from "./Component/ClickCounter"
-import HoverCounter from "./Component/HoverCounter"
+import Payel from "./Component/Payel";
 
 function App() {
   return (
     <div className="container">
       <div className="row">
-      <ClickCounter/>
-      <HoverCounter/>
+        <Payel/>
       </div>
     </div>
   );
